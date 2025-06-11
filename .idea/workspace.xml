@@ -5,9 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aad657e0-c7e9-4f2e-ba30-ace81e318f16" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/img/infosentry.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Algemeen Rapport (Realisatiefase) - Team A2 - SAiD.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Nalani Van Beemen - CV nl.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Nalani_Van_Beemen_3CCS01_SOC.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/achtergrond.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/anpr.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/gdpr.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/iso27001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/nis2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/soc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/www.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/me.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/me.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/CV_Nalani_Van_Beemen.pdf" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,7 +88,7 @@
       <workItem from="1715423720124" duration="2644000" />
       <workItem from="1715621319262" duration="14000" />
       <workItem from="1749488188248" duration="9347000" />
-      <workItem from="1749547080426" duration="5371000" />
+      <workItem from="1749547080426" duration="19660000" />
     </task>
     <servers />
   </component>
