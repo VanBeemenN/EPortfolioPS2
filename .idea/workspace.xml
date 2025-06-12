@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aad657e0-c7e9-4f2e-ba30-ace81e318f16" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/pdf/4.1 Scenario 1-  15 FTE's.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pdf/4.2 Scenario 2 - 50 FTE's.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pdf/4.3 Scenario3 - 250 FTE's.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pdf/ROI calculator.xlsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/server.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/Nalani Van Beemen - r0882111 - Aanvullende opdrachten.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/Nalani Van Beemen - r0882111 - Aanvullende opdrachten.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pdf/Nalani Van Beemen - r0882111 - Realisatiedocument.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/Nalani Van Beemen - r0882111 - Realisatiedocument.pdf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -83,7 +81,7 @@
       <workItem from="1715621319262" duration="14000" />
       <workItem from="1749488188248" duration="9347000" />
       <workItem from="1749547080426" duration="27592000" />
-      <workItem from="1749715001219" duration="5736000" />
+      <workItem from="1749715001219" duration="7881000" />
     </task>
     <servers />
   </component>
