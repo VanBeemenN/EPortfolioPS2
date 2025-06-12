@@ -7,6 +7,7 @@
     <list default="true" id="aad657e0-c7e9-4f2e-ba30-ace81e318f16" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/PoC_Projectweek_SW2.pdf" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +79,7 @@
       <workItem from="1715621319262" duration="14000" />
       <workItem from="1749488188248" duration="9347000" />
       <workItem from="1749547080426" duration="27592000" />
-      <workItem from="1749715001219" duration="8645000" />
+      <workItem from="1749715001219" duration="9135000" />
     </task>
     <servers />
   </component>
